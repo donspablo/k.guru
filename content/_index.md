@@ -1,5 +1,5 @@
 ---
-title: 'k.guru: A don Federation Company' featured_image: '/images/gohugo-default-sample-hero-image.jpg' description: "
+title: 'k.guru: XIΞLΞVAN SOLUTIONS' featured_image: '/images/gohugo-default-sample-hero-image.jpg' description: "
 k.guru is under construction."
 ---
 
